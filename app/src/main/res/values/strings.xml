@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Question-2</string>
+    <string name="find_price">Find Price</string>
+    <string name="price">Price:</string>
+    <string name="house_price_lookup">House Price Lookup</string>
+    <string name="property_price_lookup">Property Price Lookup</string>
+</resources>
